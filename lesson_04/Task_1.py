@@ -1,4 +1,3 @@
-
 x = int(input("input x: "))
 print(x)
 x = float(x)
